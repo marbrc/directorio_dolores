@@ -26,7 +26,7 @@ api
 
 <img width="1535" height="146" alt="image" src="https://github.com/user-attachments/assets/75d10e4e-65f2-463e-b9dd-03f18197caf6" />
 
-![Uploading image.png…]()
+<img width="756" height="74" alt="image" src="https://github.com/user-attachments/assets/22d92f0e-f557-47ac-946e-3e70effb83ba" />
 
 # EROR DE API
 <img width="365" height="852" alt="image" src="https://github.com/user-attachments/assets/c26e0f4b-e84f-4b38-aa99-e296b36c3d60" />
@@ -55,9 +55,14 @@ api
 
 <img width="368" height="863" alt="image" src="https://github.com/user-attachments/assets/780741c7-b4a5-4d22-9ef0-403e2deaf173" />
 
+# RETO 1 VERDE 
+<img width="761" height="50" alt="image" src="https://github.com/user-attachments/assets/10c0b147-7465-4b48-b8aa-52bb625a8e7e" />
 
+# RETO 2 VERDE
+<img width="761" height="50" alt="image" src="https://github.com/user-attachments/assets/484ce2ab-3229-4aee-baac-effd18151f70" />
 
-
+# TODAS VERDE 
+<img width="766" height="50" alt="image" src="https://github.com/user-attachments/assets/58ae30e0-6e10-4a84-ba72-d3ee72ace31c" />
 
 
 
