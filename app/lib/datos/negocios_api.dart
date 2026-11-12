@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:convert';
-import 'dart:io';
 
 import 'package:http/http.dart' as http;
 
@@ -68,11 +67,10 @@ class NegociosApi {
     try {
       // Si el servidor no contesta a tiempo, cortamos
       r = await peticion().timeout(espera);
-    } on SocketException {
-      throw SinConexionException();
     } on TimeoutException {
       throw SinConexionException();
     } on http.ClientException {
+      // Cubre los fallos de red (en móvil, escritorio y web)
       throw SinConexionException();
     }
     // Un 404 o 500 no lanza error solo, hay que revisar el código nosotros
